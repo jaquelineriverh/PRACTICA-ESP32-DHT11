@@ -78,7 +78,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 ### Evidencias
 
-
+https://github.com/jaquelineriverh/PRACTICA-ESP32-DHT11/blob/main/EVIDENCIA%201.mp4
 
 
 # Créditos
