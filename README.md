@@ -8,7 +8,7 @@ La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta prac
 
 ## MATERIAL NECESARIO
 
-realizar esta practica necesitas lo siguiente
+Para realizar esta practica necesitas lo siguiente:
 
 -[WOKWI](https://wokwi.com/)
 
@@ -58,6 +58,25 @@ void loop() {
 
 
 3.Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
+
+![](https://github.com/jaquelineriverh/PRACTICA-ESP32-DHT11/blob/main/CONEXION%20DE%20DHT11.png)
+
+
+### Instrucciónes de operación
+1.Iniciar simulador.
+
+2.Visualizar los datos en el monitor serial.
+
+3.Colocar la temperatura y humedad dando doble click al sensor DHT11
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
+
+![]()
+
+
 
 
 
