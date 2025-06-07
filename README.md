@@ -74,7 +74,16 @@ void loop() {
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
 
-![]()
+![](https://github.com/jaquelineriverh/PRACTICA-ESP32-DHT11/blob/main/funcionando.png)
+
+### Evidencias
+
+
+# Créditos
+Desarrollado por **RIVERA HERNANDEZ JAQUELINE**
+
+-[GITHUB](https://github.com/jaquelineriverh)
+
 
 
 
